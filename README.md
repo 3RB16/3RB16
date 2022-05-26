@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**3RB16/3RB16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Muhammad Arbi</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
 
@@ -29,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3rb16&show_icons=true&locale=en" alt="3rb16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3rb16&" alt="3rb16" /></p>
+
+<!--
+**3RB16/3RB16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

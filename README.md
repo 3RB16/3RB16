@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Muhammad Arbi</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
 

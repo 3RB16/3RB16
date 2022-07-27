@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3rb16" alt="3rb16" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development using (ASP.NET && Angular)**
+- 🌱 I’m currently learning **Full Stack Development using (python && react)**
 
 - 📫 How to reach me **muhammad3rbi@gmail.com**
 

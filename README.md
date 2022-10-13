@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Intern+@bld.ai;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Facebook+hacker+cup+t-shirt+winner+2021;TOP+7%+on+LeetCode;Always+learning+new+things"></a>
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3rb16&label=Profile%20views&color=0e75b6&style=flat" alt="3rb16" /> </p>
 

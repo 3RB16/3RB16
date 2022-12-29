@@ -1,14 +1,6 @@
 <h1 align="center">Hi , I'm Muhammad Arbi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Facebook+hacker+cup+t-shirt+winner+2021;TOP+7%+on+LeetCode;Always+learning+new+things"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px, width=300px/> 
-	</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Most+Active+GitHub+User+in+Egypt+Rank+17+st;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;Facebook+hacker+cup+t-shirt+winner+2021;TOP+7%+on+LeetCode;Always+learning+new+things"></a>
 </p>
 
 
